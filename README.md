@@ -4,7 +4,7 @@
 
 ---
 
-## ✅ How PSLV Uses Transmission Lines and EM Wave Theory
+## How PSLV Uses Transmission Lines and EM Wave Theory
 
 A simplified and clear explanation of how India’s PSLV rocket uses electromagnetic waves, waveguides, and transmission lines for reliable satellite launch and communication.
 
@@ -124,7 +124,7 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The PSLV rocket is a perfect example of how **transmission lines and electromagnetic theory** are used in real engineering. Whether it's a coaxial cable sending data from a sensor or a waveguide transmitting microwave signals, **EM waves power the brain of the rocket**.  
 
