@@ -69,6 +69,8 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 - The **avionics bay** in PSLV uses transmission lines to send control commands, health checks, and telemetry data.  
 - Fast and low-loss communication is key during launch.
 
+
+
 ### 5. How Antennas on PSLV Use EM Waves
 
 - EM waves are transmitted and received by onboard **telemetry antennas**.  
