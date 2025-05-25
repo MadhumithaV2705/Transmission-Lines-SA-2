@@ -29,11 +29,14 @@ A simplified and clear explanation of how India’s PSLV rocket uses electromagn
 
 ---
 
+
 ## 🚀 Introduction
 
 Ever wondered how a rocket like PSLV sends signals back to Earth while soaring into space? It all happens using **electromagnetic waves and transmission lines** that carry power and data safely and quickly within the rocket system.
 
+
 ---
+
 
 ## 📅 About PSLV
 
@@ -44,14 +47,18 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 
   ###### ![image](https://github.com/user-attachments/assets/38e92b01-20e9-4346-b8be-90316633e756)
 
+
 ---
 
+
 ## ⚡ EM Waves in Rocket Communication
+
 
 ### 1. What Are Transmission Lines?
 
 - Special cables or structures that **carry EM signals** (data or power).  
 - Examples: coaxial cables, microstrip lines, and waveguides.
+
 
 ### 2. Types of Transmission Lines in Rockets
 
@@ -59,10 +66,12 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 - **Rectangular waveguides**: Used in high-power microwave systems.  
 - **Stripline or microstrip**: Printed on PCBs in avionics.  
 
+
 ### 3. Coaxial Cables and Waveguides Inside PSLV
 
 - Coaxial cables carry telemetry signals from sensors to onboard computers.  
 - Waveguides transmit high-frequency signals between communication modules.  
+
 
 ### 4. Signal Routing and Data Transfer in Avionics
 
@@ -76,10 +85,12 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 - EM waves are transmitted and received by onboard **telemetry antennas**.  
 - These antennas ensure PSLV stays connected with ground stations.  
 
+
 ### 6. Role of Resonators and Filters
 
 - Inside RF circuits, **resonators** ensure only specific frequencies pass.  
 - Used in filters, oscillators, and frequency synthesizers.  
+
 
 ### 7. Telemetry and Tracking Using EM Waves
 
