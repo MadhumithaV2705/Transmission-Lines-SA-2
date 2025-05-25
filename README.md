@@ -12,20 +12,21 @@ A simplified and clear explanation of how India’s PSLV rocket uses electromagn
 
 ## 📚 Table of Contents
 
-- [Introduction ](url) 
-- [About PSLV  ](url)
-- [EM Waves in Rocket Communication  ](url)
- [ 1. What are Transmission Lines?](url)  
-  [2. Types of Transmission Lines in Rockets ](url) 
-  [3. Coaxial Cables and Waveguides Inside PSLV  ](url)
- [ 4. Signal Routing and Data Transfer in Avionics  ](url)
-  [5. How Antennas on PSLV Use EM Waves ](url) 
- [ 6. Role of Resonators and Filters ](url) 
-[  7. Telemetry and Tracking Using EM Waves](url)  
-- [Mapping EM Theory to PSLV Hardware](url)  
-- [Comparison with Other Launch Vehicles  ](url)
-- [Conclusion](url)  
-- [References  ](url)
+- [Introduction](#introduction)  
+- [About PSLV](#about-pslv)  
+- [EM Waves in Rocket Communication](#em-waves-in-rocket-communication)  
+  - [1. What are Transmission Lines?](#1-what-are-transmission-lines)  
+  - [2. Types of Transmission Lines in Rockets](#2-types-of-transmission-lines-in-rockets)  
+  - [3. Coaxial Cables and Waveguides Inside PSLV](#3-coaxial-cables-and-waveguides-inside-pslv)  
+  - [4. Signal Routing and Data Transfer in Avionics](#4-signal-routing-and-data-transfer-in-avionics)  
+  - [5. How Antennas on PSLV Use EM Waves](#5-how-antennas-on-pslv-use-em-waves)  
+  - [6. Role of Resonators and Filters](#6-role-of-resonators-and-filters)  
+  - [7. Telemetry and Tracking Using EM Waves](#7-telemetry-and-tracking-using-em-waves)  
+- [Mapping EM Theory to PSLV Hardware](#mapping-em-theory-to-pslv-hardware)  
+- [Comparison with Other Launch Vehicles](#comparison-with-other-launch-vehicles)  
+- [Conclusion](#conclusion)  
+- [References](#references)  
+
 ---
 
 ## 🚀 Introduction
