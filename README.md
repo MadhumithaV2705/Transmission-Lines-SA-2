@@ -12,9 +12,9 @@ A simplified and clear explanation of how India’s PSLV rocket uses electromagn
 
 ## 📚 Table of Contents
 
-- Introduction  
-- About PSLV  
-- EM Waves in Rocket Communication  
+- [Introduction](url)  
+- [About PSLV  ](url)
+- [EM Waves in Rocket Communication  
   1. What are Transmission Lines?  
   2. Types of Transmission Lines in Rockets  
   3. Coaxial Cables and Waveguides Inside PSLV  
@@ -25,7 +25,7 @@ A simplified and clear explanation of how India’s PSLV rocket uses electromagn
 - Mapping EM Theory to PSLV Hardware  
 - Comparison with Other Launch Vehicles  
 - Conclusion  
-- References  
+- References  ](url)
 
 ---
 
