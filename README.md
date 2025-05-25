@@ -25,7 +25,7 @@ A simplified and clear explanation of how India’s PSLV rocket uses electromagn
 - [Mapping EM Theory to PSLV Hardware  ](url)
 - [Comparison with Other Launch Vehicles ](url) 
 - [Conclusion  ](url)
-- [References  ](url)](url)
+- [References  ](url)]
 
 ---
 
