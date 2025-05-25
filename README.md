@@ -42,7 +42,7 @@ Ever wondered how a rocket like PSLV sends signals back to Earth while soaring i
 - Has launched Indian and international satellites  
 - Known for its reliability and low-cost access to space
 
-  #####![image](https://github.com/user-attachments/assets/05acf9db-9c8a-46e8-ac00-ff328ca55105)
+  ##### ![image](https://github.com/user-attachments/assets/05acf9db-9c8a-46e8-ac00-ff328ca55105)
 
 ---
 
